@@ -1,0 +1,4 @@
+Dataset/
+Outputs/
+*.qgz
+.DS_Store
